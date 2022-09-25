@@ -96,15 +96,15 @@ main();
 //custom concerts
 //////////////
 
-concerts = [
-  {
-    concert: {
-      name:  ,
-      tickets: 
+// concerts = [
+//   {
+//     concert: {
+//       name:  ,
+//       tickets:
 
-    },
-  }
-]
+//     },
+//   }
+// ]
 
 // // const {
 // //   default: MirrorChannel,

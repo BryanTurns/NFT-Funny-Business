@@ -1,0 +1,22 @@
+{
+  "name": "nft-funny-business",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryanTurns/NFT-Funny-Business.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BryanTurns/NFT-Funny-Business/issues"
+  },
+  "homepage": "https://github.com/BryanTurns/NFT-Funny-Business#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
